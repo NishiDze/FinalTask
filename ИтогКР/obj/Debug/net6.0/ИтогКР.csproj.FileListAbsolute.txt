@@ -1,0 +1,15 @@
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\bin\Debug\net6.0\ИтогКР.exe
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\bin\Debug\net6.0\ИтогКР.deps.json
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\bin\Debug\net6.0\ИтогКР.runtimeconfig.json
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\bin\Debug\net6.0\ИтогКР.dll
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\bin\Debug\net6.0\ИтогКР.pdb
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.csproj.AssemblyReference.cache
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.AssemblyInfoInputs.cache
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.AssemblyInfo.cs
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.csproj.CoreCompileInputs.cache
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.dll
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\refint\ИтогКР.dll
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.pdb
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ИтогКР.genruntimeconfig.cache
+C:\Users\nishi\OneDrive\Рабочий стол\ИтогКР\obj\Debug\net6.0\ref\ИтогКР.dll
